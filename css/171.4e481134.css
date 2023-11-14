@@ -1,0 +1,1 @@
+.body{background-color:#f0f0f0;overflow:hidden}.sakura{position:absolute;top:-10px;z-index:1;pointer-events:none;animation:fall linear infinite}@keyframes fall{0%{transform:translateY(-10%)}to{transform:translateY(110vh)}}
